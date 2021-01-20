@@ -1,0 +1,19 @@
+Algorithms:
+	Zoom id: 345 383 795
+	Password: 002109
+	Link: https://wentworth.zoom.us/j/345383795?pwd=cEUzOXk4V3ZnM2FNVTZ6UVJBTllsZz09
+
+Prob and stats:
+	Zoom id: 818 8072 5794
+	Password: 092100
+
+Myth:
+	Zoom link: https://applications.zoom.us/lti/rich/j/87960395341?oauth_consumer_key=6kSTzvBbTUGJohkJDbClpQ&lti_scid=5080f64302d2d7d54af2009d66601d3931867225625d9a89c42df5ebd32241c4
+
+	Didnt work? : https://applications.zoom.us/lti/rich
+
+Comp Organization:
+
+	Zoom id: 817 2595 0005
+	Password: 488531
+	Link: https://wentworth.zoom.us/j/86447396538?pwd=dUZNazlkSm9UV21HSUx0bE5YbzlKZz09
